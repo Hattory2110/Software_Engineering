@@ -1,7 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/1_hdBt_5)
-# Szoftverfejlesztés projekt (Játék: 2.35)
-
-
 ## Dao
 
 Egy 4x4 es tábla a két játékos korongjai a két átlón kezdenek. A játékosok színei piros és kék.
