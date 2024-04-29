@@ -1,5 +1,6 @@
 # Description
 This is an aplication made for one of my courses.
+### Hungarian explanation:
 
 Dao game
 ----
