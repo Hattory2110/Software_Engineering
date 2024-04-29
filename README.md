@@ -1,4 +1,8 @@
-## Dao
+# Description
+This is an aplication made for one of my courses.
+
+Dao game
+----
 
 Egy 4x4 es tábla a két játékos korongjai a két átlón kezdenek. A játékosok színei piros és kék.
 A játékosok felváltva követik egymást, és csak a saját színű korongjaikkal léphetnek,
